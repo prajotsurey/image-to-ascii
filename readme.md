@@ -24,7 +24,7 @@ You need to create a python3 virtualenv and clone this project into it.
 1. Clone project into src folder inside your virtualenv
 
 ```bash
-git clone https://github.com/prajotsurey/fullstack-twitter-clone.git src
+git clone https://github.com/prajotsurey/image-to-ascii.git src
 ```
 2. Activate virtualenv
 
